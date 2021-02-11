@@ -6,4 +6,3 @@
 4. Exchange the `CC_TEST_REPORTER_ID` variable in `.circleci/config.yml` (from circle ci)
 5. Add Project to CodeClimate  https://codeclimate.com/github/repos/new
 6. Add the configs you need to `config.cfg`
-7. 
