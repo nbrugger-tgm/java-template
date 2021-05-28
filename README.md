@@ -1,3 +1,11 @@
+## Features
+
+1. Quality Controll (CodeClimate)
+2. Deployment scripts (JFrog/all mvn repos)
+3. Predefined Readme
+4. Conventional Commits
+5. Custom gradle buildscipt
+
 ## Use this template
 
 1. ``./init.sh``
